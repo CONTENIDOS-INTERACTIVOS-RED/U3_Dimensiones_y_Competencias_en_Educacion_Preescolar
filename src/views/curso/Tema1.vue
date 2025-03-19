@@ -172,7 +172,7 @@
               h5  Un dato importante
               p.mb-0 La familia desempeña un papel clave en este proceso. La educación inicial se extiende más allá del aula, incluyendo todos los espacios donde el niño interactúa.
 
-    .bg-full-width.bg-color-6.mb-lg-5
+    .bg-full-width.bg-color-6.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-3.mb-lg-0
@@ -200,7 +200,7 @@
           p.mb-0 Imagina a un niño explorando su entorno con curiosidad, haciendo preguntas y aprendiendo a través del juego. ¿Cómo diseñar un currículo que respalde su proceso de aprendizaje y desarrollo integral? En la educación inicial, el currículo no solo debe transmitir conocimientos, sino también favorecer experiencias que permitan a los niños construir habilidades esenciales para la vida.
         p(data-aos="fade-left") El currículo en esta etapa se basa en principios que garantizan su pertinencia, flexibilidad y enfoque integral. A continuación, se analizan tres aspectos clave: la integralidad y flexibilidad curricular, el enfoque basado en competencias y la importancia del ambiente de aprendizaje.
     
-    .bg_img.mb-lg-5
+    .bg_img.mb-5
       h2(data-aos="fade-left") Integralidad y flexibilidad curricular
       p.mb-5 Un currículo integral y flexible en la educación inicial reconoce la complejidad del desarrollo infantil y la necesidad de abordar todas sus dimensiones de manera articulada. No se limita a la enseñanza de conocimientos académicos, sino que busca ofrecer experiencias significativas que potencien el desarrollo cognitivo, emocional, social y físico de los niños, respetando sus ritmos e intereses individuales.
 
@@ -229,7 +229,7 @@
 
     p Según el Ministerio de Educación Nacional de Colombia (2014), la educación inicial debe garantizar experiencias de aprendizaje integrales, evitando enfoques fragmentados. Para ello, las actividades deben integrar diversas áreas del desarrollo y permitir el aprendizaje en contextos reales y significativos. Por otro lado, la flexibilidad curricular permite ajustar los contenidos, metodologías y estrategias pedagógicas a las necesidades individuales de los niños y al contexto social y cultural en el que se desenvuelven. Algunas estrategias clave incluyen:
 
-    .bg-full-width.bg-color-5.mb-lg-5
+    .bg-full-width.bg-color-5.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-12
@@ -285,7 +285,7 @@
     h2(data-aos="fade-left") Enfoque basado en competencias en la educación inicial
     p.mb-5 ¿Por qué es importante trabajar por competencias en esta etapa? El enfoque basado en competencias busca que los niños no solo adquieran conocimientos, sino que los apliquen en situaciones cotidianas. Según Tobón (2010), una competencia integra conocimientos, habilidades y actitudes que permiten a una persona desenvolverse en distintos contextos.
 
-    .bg-full-width.bg-color-5.mb-lg-5
+    .bg-full-width.bg-color-5.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-12
@@ -338,7 +338,7 @@
                   i.far.fa-arrow-alt-circle-right.bg-color-9
                   p.mb-0 La educación inicial debe ser adaptativa y significativa.
 
-    .bg_img.mb-lg-5
+    .bg_img.mb-5
       h2(data-aos="fade-left") Importancia del ambiente de aprendizaje
       p.mb-5 El entorno educativo no es solo un espacio físico, sino un elemento activo en la construcción del conocimiento. Loris Malaguzzi (1998), creador del enfoque Reggio Emilia, lo denomina "el tercer maestro", junto con la familia y el docente.
 
@@ -367,7 +367,7 @@
     
     p.mb-4 <b>El ambiente como tercer educador:</b> Un aula organizada en rincones de aprendizaje (lectura, arte, juego simbólico) permite que los niños tomen decisiones sobre su proceso de aprendizaje.
 
-    .bg-full-width.bg-color-5.mb-lg-5
+    .bg-full-width.bg-color-5.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-12
@@ -445,7 +445,7 @@
     
     p.mb-4 Lev Vygotsky (1978) enfatiza que el aprendizaje ocurre en un contexto social y cultural, donde la mediación de adultos y pares es clave para el desarrollo.
     
-    .bg-full-width.bg-color-5.mb-lg-5
+    .bg-full-width.bg-color-5.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-12
@@ -465,7 +465,7 @@
               .col-lg-4(data-aos="zoom-in")
                 img.img-fluid(src='@/assets/curso/tema1/34.svg', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
 
-    .bg_img.mb-lg-5
+    .bg_img.mb-5
       h2(data-aos="fade-left") El juego, la exploración y la interacción social
       p.mb-5 El juego es la principal herramienta de aprendizaje en la infancia. Según la UNESCO (2019), favorece habilidades cognitivas, socioemocionales y motoras.
 
@@ -492,7 +492,7 @@
           p.mb-0.text-center Promueve el autocontrol y la cooperación.
 
 
-    .bg-full-width.bg-color-5.mb-lg-5
+    .bg-full-width.bg-color-5.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-12
@@ -514,7 +514,7 @@
     
     p.mb-4 Esta versión optimiza la estructura del contenido, facilitando su comprensión sin perder profundidad en la información.
 
-    .bg-full-width.bg-color-6.mb-lg-5
+    .bg-full-width.bg-color-6.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-3.mb-lg-0
