@@ -175,10 +175,6 @@
 
 
     
-
-    #t_2_1.titulo-segundo(data-aos="flip-up")
-      h2 #[span 2.1] Subtítulo tema
-    
     .bg-full-width.border-top.actividad.bg-color-actividad
       .p-4.p-md-5
         #Actividad                
@@ -256,28 +252,31 @@ export default {
           {
             id: 1,
             texto:
-              '¿Cuál de las siguientes es una característica fundamental de los derechos humanos?',
+              '¿Cuál es el propósito principal de los principios pedagógicos en la educación inicial?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Son temporales y cambiantes',
+                texto:
+                  'Establecer normas rígidas para la enseñanza en preescolar.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Son universales y aplican a todas las personas',
+                texto:
+                  'Facilitar el aprendizaje significativo mediante estrategias adecuadas al desarrollo infantil.',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Son exclusivos de ciertos grupos',
+                texto: 'Limitar la creatividad del docente en el aula.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Son opcionales',
+                texto:
+                  'Determinar el único método de enseñanza válido en la educación inicial.',
                 esCorrecta: false,
               },
             ],
@@ -287,30 +286,14 @@ export default {
           {
             id: 2,
             texto:
-              '¿Cuál de las siguientes afirmaciones sobre la diversidad cultural es correcta?',
+              '¿Cuál de las siguientes opciones NO corresponde a una actividad rectora en la educación inicial?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
-              {
-                id: 'a',
-                texto: 'Fomenta la homogeneización cultural',
-                esCorrecta: false,
-              },
-              {
-                id: 'b',
-                texto: 'Promueve el respeto y la aceptación de las diferencias',
-                esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Debilita la identidad cultural de los pueblos',
-                esCorrecta: false,
-              },
-              {
-                id: 'd',
-                texto: 'Limita las oportunidades de interacción',
-                esCorrecta: false,
-              },
+              { id: 'a', texto: 'Juego.', esCorrecta: false },
+              { id: 'b', texto: 'Exploración del medio.', esCorrecta: false },
+              { id: 'c', texto: 'Evaluación estandarizada.', esCorrecta: true },
+              { id: 'd', texto: 'Literatura.', esCorrecta: false },
             ],
             mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
             mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
@@ -318,58 +301,52 @@ export default {
           {
             id: 3,
             texto:
-              'La mediación en un conflicto tiene como objetivo principal:',
+              'Según Vygotsky, ¿qué concepto describe la diferencia entre lo que un niño puede hacer solo y lo que puede lograr con ayuda?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Imponer una solución rápida',
+                texto: 'Aprendizaje significativo.',
                 esCorrecta: false,
               },
-              {
-                id: 'b',
-                texto: 'Facilitar el diálogo entre las partes',
-                esCorrecta: true,
-              },
+              { id: 'b', texto: 'Desarrollo cognitivo.', esCorrecta: false },
               {
                 id: 'c',
-                texto: 'Determinar la culpabilidad',
-                esCorrecta: false,
+                texto: 'Zona de desarrollo próximo.',
+                esCorrecta: true,
               },
-              {
-                id: 'd',
-                texto: 'Ignorar las preocupaciones de una parte',
-                esCorrecta: false,
-              },
+              { id: 'd', texto: 'Constructivismo.', esCorrecta: false },
             ],
             mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
             mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
           },
           {
             id: 4,
-            texto: 'En un foro comunitario, es importante:',
+            texto:
+              '¿Qué elemento es fundamental en la planeación didáctica en educación preescolar?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Escuchar solo a las autoridades',
-                esCorrecta: false,
-              },
-              {
-                id: 'b',
-                texto: 'Fomentar la participación de todos los miembros',
+                texto:
+                  'La flexibilidad para adaptarse a las necesidades de los niños.',
                 esCorrecta: true,
               },
               {
+                id: 'b',
+                texto: 'La rigidez en la aplicación de estrategias.',
+                esCorrecta: false,
+              },
+              {
                 id: 'c',
-                texto: 'Decidir por votación sin consultar a los demás',
+                texto: 'La memorización de contenidos sin contexto.',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Excluir las opiniones de los más jóvenes',
+                texto: 'La exclusión del juego como estrategia de aprendizaje.',
                 esCorrecta: false,
               },
             ],
@@ -379,28 +356,30 @@ export default {
           {
             id: 5,
             texto:
-              '¿Qué busca la justicia restaurativa en el contexto de un conflicto?',
+              '¿Cuál es la importancia del currículo en la educación inicial?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Aplicar una sanción severa',
+                texto: 'Regular el comportamiento de los niños en el aula.',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Reparar el daño y restablecer las relaciones',
-                esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Castigar a las partes involucradas',
+                texto: 'Determinar las estrategias de evaluación cuantitativa.',
                 esCorrecta: false,
               },
               {
+                id: 'c',
+                texto:
+                  'Orientar la planificación educativa con base en principios pedagógicos y el desarrollo infantil.',
+                esCorrecta: true,
+              },
+              {
                 id: 'd',
-                texto: 'Ignorar el contexto del conflicto',
+                texto:
+                  'Limitar la autonomía de los docentes en su práctica pedagógica.',
                 esCorrecta: false,
               },
             ],

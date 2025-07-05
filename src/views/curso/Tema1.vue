@@ -38,7 +38,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-6
             TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-              texto="Fundamentos de la innovación estratégica"
+              texto="Principios esenciales en la educación inicial y preescolar"
               tiempo
               :audio="require('../../assets/curso/podcast/podcast1.mp3')"
             )
@@ -308,10 +308,10 @@
                 img.img-fluid(src='@/assets/curso/tema1/23.svg', style="max-width:486px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
 
     .row.mb-5
-      .col-lg-4.mb-3.mb-lg-0.order-1.order-lg-2
+      .col-lg-4.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/24.png", data-aos="zoom-in")
-      .col-lg-8.order-2.order-lg-1(data-aos="fade-left")
+      .col-lg-8(data-aos="fade-left")
         p Osorio y Puentes (2023) destacan la importancia de fomentar habilidades que permitan a los niños <b>aprender a aprender</b>, promoviendo la autonomía y la metacognición. Este enfoque también impulsa el uso de estrategias como la V heurística, que ayuda a estructurar el conocimiento de manera integral.
     
         .bg-color-8.p-4(data-aos="fade-left")
@@ -320,7 +320,7 @@
               img(src="@/assets/curso/tema1/2.svg", style="max-width: 90px").mx-auto
             .col-lg
               h5 Ejemplo en el aula
-              p.mb-0 Algunos niños pueden interesarse más por la música y el arte, mientras que otros prefieren actividades al aire libre. Un currículo flexible permite integrar estrategias diversas, como usar canciones para reforzar conceptos matemáticos o explorar la naturaleza para desarrollar habilidades científicas. 
+              p.mb-0 En lugar de enseñar los colores con repetición mecánica, se pueden diseñar actividades lúdicas en las que los niños los identifiquen en su entorno, mezclen pinturas o clasifiquen objetos por tonalidades.
         .bg-color-8.p-4(data-aos="fade-left")
           .row.align-items-start
             .col-lg-auto
@@ -330,14 +330,14 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-9
-                  p.mb-0 Un currículo integral aborda todas las dimensiones del desarrollo.
+                  p.mb-0 El aprendizaje por competencias favorece la aplicación práctica del conocimiento.
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-9
-                  p.mb-0 La flexibilidad permite ajustar la enseñanza a las necesidades individuales y contextuales.
+                  p.mb-0 Este enfoque promueve la autonomía y la resolución de problemas.
                 li.mb-0.d-flex
                   i.far.fa-arrow-alt-circle-right.bg-color-9
-                  p.mb-0 La educación inicial debe ser adaptativa y significativa.
-
+                  p.mb-0 En educación inicial, el desarrollo de competencias es clave para la vida cotidiana.
+                  
     .bg_img.mb-5
       h2(data-aos="fade-left") Importancia del ambiente de aprendizaje
       p.mb-5 El entorno educativo no es solo un espacio físico, sino un elemento activo en la construcción del conocimiento. Loris Malaguzzi (1998), creador del enfoque Reggio Emilia, lo denomina "el tercer maestro", junto con la familia y el docente.
